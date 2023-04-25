@@ -1,0 +1,8 @@
+﻿  Source.cpp
+C:\Users\bka32\OneDrive\Рабочий стол\repos\Others\Маша\Course\Course\Source.cpp(152,18): warning C4244: инициализация: преобразование "_Rep" в "float", возможна потеря данных
+          with
+          [
+              _Rep=__int64
+          ]
+Source.obj : warning LNK4075: не учитывается "/EDITANDCONTINUE" из-за спецификации "/INCREMENTAL:NO"
+  Course.vcxproj -> C:\Users\bka32\OneDrive\Рабочий стол\repos\Others\Маша\Course\x64\Debug\Course.exe
